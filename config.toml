@@ -2,7 +2,7 @@
 #languageCode = 'en-us'
 #title = 'My New Hugo Site'
 
-baseURL = "https://brave-fermat-f8ced5.netlify.app/"
+baseURL = "https://charlesshinaver.com"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
 title = "A Hugo Site"
