@@ -8,7 +8,7 @@ languageCode = "en-us"
 title = "Some Thoughts"
 copyright = "2021 Charles Shinaver"
 theme = "diary"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-12X5FQJ7VK"
 
 [markup]
   [markup.highlight]
